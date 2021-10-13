@@ -1,0 +1,4 @@
+#Wed Oct 13 20:56:06 SGT 2021
+base.0=E\:\\AndroidStudioProject\\kelas-designUI\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
